@@ -11,4 +11,4 @@
 
 ## Project Report PDF
 
-[View PDF](house_prediction.pdf)
+[View PDF](house prediction.pdf)
